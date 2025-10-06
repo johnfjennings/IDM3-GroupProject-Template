@@ -1,0 +1,1 @@
+ This folder should contain project documentation sucha as .docx, .pdf etc
