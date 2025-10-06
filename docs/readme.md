@@ -1,1 +1,1 @@
- This folder should contain project documentation sucha as .docx, .pdf etc
+ This folder should contain a static website to be published through Github Pages
